@@ -1,0 +1,19 @@
+{
+  "name": "proposals",
+  "version": "1.0.0",
+  "description": "This repo contains all the various proposals that have been executed by govenrance.",
+  "private": true,
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "compile": "forge build",
+    "build": "forge build",
+    "test": "forge test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
